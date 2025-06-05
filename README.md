@@ -10,4 +10,3 @@ Mas aqui já tive os erros da password, afinal temos de utilizar o token e como 
 Tambem tinha a versºao desatualizada no docker-image.yml.
 Depois já tive sucesso no built e push do da imagem para o DockerHub.
 
-Ainda a efetuar a parte 3- Criar um repositório no GitHub (minha-pagina-web-infra)
